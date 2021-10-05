@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+
+margin: 0;}
+.page-wrapped{
+    font-size: 0px;
+}
+
+.left-page-wrapped{
+    background-color: rgb(11, 11, 158);
+    width: 150px;
+    height: 60vh;
+    display: inline-block;
+}
+   .Middle-page-wrapped{
+       
+       width: 500px;
+       height: 60vh;
+       display: inline-block;
+    
+   }
+   
+.first{
+    background-color: rgb(54, 145, 54);
+    width: 500px;
+    height: 10vh;    
+}
+    
+.middle{
+    background-color: rgb(223, 195, 180);
+    width: 500px;
+    height: 40vh;
+}
+.last{
+    background-color: rgb(231, 97, 48);
+    width: 500px;
+    height: 10vh;
+    
+}
+
+.right-page-wrapped{
+    background-color: rgb(22, 13, 148);
+    width: 150px;
+    height: 60vh;  
+    display: inline-block;
+}
